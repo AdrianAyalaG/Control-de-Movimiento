@@ -28,9 +28,10 @@ Antes de la implementación de control de movimiento, se empleaban mecanismos de
 ### Desventajas:
 1. Alto costo de fabricación, debido al mecanizado preciso de sus piezas.
 2. Dependencia de un único motor, lo que interrumpía el ciclo de trabajo en caso de fallos mecánicos.
-5. Mantenimiento complejo, requiriendo ajustes periodicos.
+3. Mantenimiento complejo, requiriendo ajustes y reemplazos periódicos de los componentes mecánicos.
 
-6. 
+
+
 
 
 
