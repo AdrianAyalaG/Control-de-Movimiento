@@ -20,8 +20,17 @@ Figura 1. Partes de una impresora.
 
 Antes de la implementación de control de movimiento, se empleaban mecanismos de control directos, en los cuales un único motor estaba acoplado al eje. Este eje estaba compuesto por diversos engranajes y mecanismos que modificaban las trayectorias, velocidades y aceleraciones. Además, la sincronización entre los distintos ejes dependía directamente del motor.
 
+### Ventajas:
+1. Transmisión precisa entre los ejes, garantizando un movimiento sincronizado.
+2. Flexibilidad en el control del movimiento, permitiendo la modificación de velocidad, trayectorias y aceleración según la necesidad del sistema.
+4. Alta durabilidad, debido a la resistencia y robustez de sus componentes mecanizados.
 
+### Desventajas:
+1. Alto costo de fabricación, debido al mecanizado preciso de sus piezas.
+2. Dependencia de un único motor, lo que interrumpía el ciclo de trabajo en caso de fallos mecánicos.
+5. Mantenimiento complejo, requiriendo ajustes periodicos.
 
+6. 
 
 
 
