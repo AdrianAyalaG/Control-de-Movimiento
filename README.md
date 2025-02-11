@@ -18,7 +18,7 @@ Figura 1. Partes de una impresora.
 
 ## ¿Cómo se hacía antes del control?
 
-Antes de la implementación de control de movimiento, se empleaban mecanismos de control directos, en los cuales un único motor estaba acoplado al eje. Este eje estaba compuesto por diversos engranajes y mecanismos que modificaban las trayectorias, velocidades y aceleraciones. Además, la sincronización entre los distintos ejes dependía directamente del motor.
+Antes de la implementación de control de movimiento, se empleaban mecanismos de control directos, en los cuales un único motor estaba acoplado al eje. Este eje estaba compuesto por diversos engranajes y mecanismos que modificaban las trayectorias, velocidades y aceleraciones. Además, la sincronización entre los distintos ejes dependía directamente del motor. [2]
 
 ### Ventajas:
 1. Transmisión precisa entre los ejes, garantizando un movimiento sincronizado.
@@ -39,3 +39,6 @@ Antes de la implementación de control de movimiento, se empleaban mecanismos de
 
 [1]	“Login aulas 2025”, Edu.co. [En línea]. Disponible en: https://aulas.ecci.edu.co/mod/resource/view.php?id=217529&forceview=1. [Consultado: 11-feb-2025].
 
+[2] Fundamentos del Control de Movimientos. (n.d.). Retrieved February 11, 2025, from https://www.infoplc.net/files/documentacion/motion_control/infoPLC_net_Fundamentos_de_Control_de_Movimientos.pdf
+
+‌
