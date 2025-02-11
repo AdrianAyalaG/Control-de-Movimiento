@@ -1,6 +1,7 @@
 # Control de Movimiento
 El control de movimiento, como su nombre indica, consiste en regular de manera precisa el desplazamiento mecánico de una carga. Este control puede llevarse a cabo mediante diversas tecnologías, entre las cuales se encuentran los sistemas de accionamiento neumático, hidráulico y electromecánico. [1] 
 
+## 
 El control de movimiento tiene como objetivo gestionar la posición, velocidad, torque y aceleración. En una máquina, pueden existir múltiples movimientos, denominados axis, cuyos valores de control (posición, velocidad, etc.) deben sincronizarse para optimizar el desempeño del sistema.
 
 Para facilitar la comprensión de este concepto se desarrolla el siguiente ejemplo:
