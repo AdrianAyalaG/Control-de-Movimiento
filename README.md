@@ -11,15 +11,15 @@ Para facilitar la comprensión de este concepto se desarrolla el siguiente ejemp
 
 "Una máquina de impresión está compuesta por un cartucho y su correspondiente mecanismo, el cual se encarga de transferirle energía. Al cartucho se le atribuye un movimiento lineal a lo largo de un eje, mientras que el otro eje corresponde al rodillo que desplaza la hoja de papel. Este rodillo cumple la función de evitar el desperdicio de tinta sobre la hoja, ya sea por exceso de tinta o por una doble aplicación en la misma zona."
 
+![Figura de prueba](Imp_Par.png)
+
+Figura 1. Partes de una impresora.
+
 
 ## ¿Cómo se hacía antes del control?
 
 Antes de la implementación de control de movimiento, se empleaban mecanismos de control directos, en los cuales un único motor estaba acoplado al eje. Este eje estaba compuesto por diversos engranajes y mecanismos que modificaban las trayectorias, velocidades y aceleraciones. Además, la sincronización entre los distintos ejes dependía directamente del motor.
 
-
-![Figura de prueba](Imp_Par.png)
-
-Figura 1. Partes de una impresora.
 
 
 
