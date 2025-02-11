@@ -17,7 +17,9 @@ Para facilitar la comprensión de este concepto se desarrolla el siguiente ejemp
 Antes de la implementación de control de movimiento, se empleaban mecanismos de control directos, en los cuales un único motor estaba acoplado al eje. Este eje estaba compuesto por diversos engranajes y mecanismos que modificaban las trayectorias, velocidades y aceleraciones. Además, la sincronización entre los distintos ejes dependía directamente del motor.
 
 
+![Figura de prueba](Imp_Par.png)
 
+Figura 1. Partes de una impresora.
 
 
 
