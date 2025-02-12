@@ -31,6 +31,17 @@ Antes de la implementación de control de movimiento, se empleaban mecanismos de
 3. Mantenimiento complejo, requiriendo ajustes y reemplazos periódicos de los componentes mecánicos.
 
 
+## ¿Cuáles son los componentes necesarios?
+Al diseñar un sistema de control, es fudamental considerar los siguientes componentes:
+
+1. Human-machine interfaces (HMI): Facilita la interacción entre el usuario y el sistema de manera intuitiva.
+2. Control de movimienot: Comprende elementos como CPU, salida de potencia, las entradas, y los sensores.
+3. Driver de potencia: Regula el flujo de energía que se suministrado a un motor eléctrico.
+4. Actuadores: Se encargan de ejecutar el movimiento o acción requerida.
+5. Mecanismos de transmisión: Componentesque transfieren el movimiento y la potencia entre distintos elementos del sistema.
+6. Retroalimentación (Sensores): Depende de la aplicación específica. En la mayoría de los casos, se emplea un sensor tipo ecoder, el cual permite medir velocidad, posición y torque.
+
+
 
 
 
