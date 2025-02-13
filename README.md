@@ -53,6 +53,11 @@ Al diseñar un sistema de control, es fudamental considerar los siguientes compo
 >🔑 Definición: Depende de la aplicación específica. En la mayoría de los casos, se emplea un sensor tipo ecoder, el cual permite medir velocidad, posición y torque.
 
 
+![Figura de prueba](Componentes.png)
+
+Figura 2. Componentes de un sistema de control
+
+La Figura 2 permite identificar el orden que cumple cada uno de los componentes que serequieren para desarrollar un sistema de control. 
 
 
 
