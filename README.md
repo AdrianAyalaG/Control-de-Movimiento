@@ -71,6 +71,9 @@ La Figura 2 muestra la estructura de un sistema de control de movimiento en lazo
 
 ## Sistema de Control en Cascada
 
+![Figura de prueba](Cascada_Esquema.png)
+
+Figura 2. Esquema de control
 
 
 
