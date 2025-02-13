@@ -73,11 +73,11 @@ La Figura 2 muestra la estructura de un sistema de control de movimiento en lazo
 
 ![Figura de prueba](Cascada_Esquema.png)
 
-Figura 2. Esquema de control
+Figura 3. Esquema de control
 
-
-
-
+En el esquema anterior se observa un sistema de control en cascada, en el que se da prioridad al control de la variable de respuesta más rápida: el torque. Para ello, se regula la corriente. 
+La segunda variable a controlar es la velocidad, la cual se compara con la retroalimentación correspondiente. La salida de este controlador se utiliza como referencia para el *torque*.  
+Por último, se controla la posición, comparándola con su retroalimentación. La salida de este controlador sirve como referencia para la *velocidad*.
 
 
 
