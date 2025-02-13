@@ -60,6 +60,20 @@ Figura 2. Componentes de un sistema de control
 
 La Figura 2 muestra la estructura de un sistema de control de movimiento en lazo cerrado, destacando cada proceso necesario para obtener la respuesta deseada. En este sistema, el Feedback tiene la función de enviar información sobre el estado de la carga y el sistema al controlador, permitiendo realizar ajustes en tiempo real para mejorar la precisión y eficiencia del control.
 
+## Problema de control de movimiento
+1. Al trabajar con fuerzas y cargas, es fundamental considerar las leyes de Newton. Cuando se aplica una fuerza sobre un objeto, este experimenta una reacción de igual magnitud pero en sentido opuesto, conocida como fuerza negativa. Esta reacción genera un cambio en la velocidad del objeto, un fenómeno denominado *offset* de velocidad.
+2. El toque se considera una perturbación para el motor, ya que actúa como una fuerza negativa. Al regular el *torque*, se garantiza una reducción rápida y suave del *offset*, optimizando la dinámica del sistema.
+3. Para ejecutar trayectorias curvas con precisión, es fundamental asegurar una dinámica de velocidad altamente rápida.
+4. El diseño del driver de potencia debe optimizarse cuidadosamente para mejorar la eficiencia energética y prolongar la vida útil tanto de la electrónica como del motor.
+
+
+## Sistema de Control en Cascada
+
+
+
+
+
+
 
 
 # Referencias
