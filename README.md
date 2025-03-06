@@ -75,7 +75,19 @@ La Figura 2 muestra la estructura de un sistema de control de movimiento en lazo
 
 Figura 3. Esquema de control
 
-En el esquema anterior se observa un sistema de control en cascada, en el que se da prioridad al control de la variable de respuesta más rápida: el torque. Para ello, se regula la corriente. La segunda variable a controlar es la velocidad, la cual se compara con la retroalimentación correspondiente. La salida de este controlador se utiliza como referencia para el *torque*. Por último, se controla la posición, comparándola con su retroalimentación. La salida de este controlador sirve como referencia para la *velocidad*.
+En el esquema anterior se observa un sistema de control en cascada, en el que se da prioridad al control de la variable de respuesta más rápida: El torque. Para ello, se regula la corriente. La segunda variable a controlar es la velocidad, la cual se compara con la retroalimentación correspondiente. La salida de este controlador se utiliza como referencia para el *torque*. Por último, se controla la posición, comparándola con su retroalimentación. La salida de este controlador sirve como referencia para la *velocidad*.
+
+
+## Aplicaciones prácticas
+Podemos encontrar el control de movimiento en diversas aplicaciones, tanto de manera directa como indirecta. Algunos ejemplos incluyen:
+1. Transporte de mercancia, en las cadenas de suministros automatizadas.
+2. Elevadores.
+3. Maquinaria de bobinado.
+4. Telar automatizado.
+5. Cadenas de empaquetado de alimentos.
+6. Fabricación de semiconductores.
+7. Ensamble de componentes electrónicos.
+
 
 
 
