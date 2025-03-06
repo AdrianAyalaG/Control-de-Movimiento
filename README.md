@@ -90,8 +90,10 @@ Podemos encontrar el control de movimiento en diversas aplicaciones, tanto de ma
 
 
 # Conclusiones
-1. La integración de los sistemas de control de movimiento garantiza una alta precisión en tareas repetitivas, facilitando la automatización de procesos. Esto contribuye a la disminución de los costos operativos, la reducción del tiempo de operación y el aumentando de la eficiencia en diversos sectores industriales.
+1. La integración de los sistemas de control de movimiento garantiza una alta precisión en tareas repetitivas, facilitando la automatización de procesos. Esto contribuye a la disminución de los costos operativos, la reducción del tiempo de operación y el aumentando de la eficiencia en diversos sectores ind       ustriales.
 2. La combinación de tecnologías como la robótica, inteligencia artificial y el control de movimiento, impulsan la transformación tecnológica en diversas industrias, orientadas a la mejora continua, facilitando su uso e implementación.
+3. La implimentación del control de movimiento en procesos que demandan alta precisión y exactitud, como la fabricación de semiconductores y el ensamblaje de componentes electrónicos, garantiza el cumplimiento de las tolerancias y especificaciones requeridas, asegurando así un rendimiento óptimo en la producción. 
+
 
 # Referencias
 
